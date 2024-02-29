@@ -1,5 +1,5 @@
 //
-//  WPButton.swift
+//  WPLabel.swift
 //  wpbutton
 //
 //  Created by Mukesh Lokare on 29/02/24.
@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-public class WPButton: UIButton {
+public class WPLabel: UILabel {
     public var title: String = ""
     public var bgColor: UIColor = .lightGray
     
@@ -24,10 +24,10 @@ public class WPButton: UIButton {
     }
     
     private func setup() {
-        self.titleLabel?.textAlignment = .left
-        self.titleLabel?.font = UIFont(name: "Halvetica", size: 17)
-        self.titleLabel?.textColor = UIColor.white
+        self.textAlignment = .left
+        self.font = UIFont(name: "Halvetica", size: 17)
+        self.textColor = UIColor.white
+        self.text = title
         self.backgroundColor = bgColor
-        self.titleLabel?.text = self.title
     }
 }

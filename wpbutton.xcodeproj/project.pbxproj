@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2603A9F82B9089F700C51B7A /* WPLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2603A9F72B9089F700C51B7A /* WPLabel.swift */; };
 		2639AABF2B9060F500241E8B /* wpbutton.h in Headers */ = {isa = PBXBuildFile; fileRef = 2639AABE2B9060F500241E8B /* wpbutton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2639AAC62B90610F00241E8B /* WPButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2639AAC52B90610F00241E8B /* WPButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2603A9F72B9089F700C51B7A /* WPLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WPLabel.swift; sourceTree = "<group>"; };
 		2639AABB2B9060F500241E8B /* wpbutton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = wpbutton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2639AABE2B9060F500241E8B /* wpbutton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = wpbutton.h; sourceTree = "<group>"; };
 		2639AAC52B90610F00241E8B /* WPButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WPButton.swift; sourceTree = "<group>"; };
@@ -49,6 +51,7 @@
 			children = (
 				2639AABE2B9060F500241E8B /* wpbutton.h */,
 				2639AAC52B90610F00241E8B /* WPButton.swift */,
+				2603A9F72B9089F700C51B7A /* WPLabel.swift */,
 			);
 			path = wpbutton;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2639AAC62B90610F00241E8B /* WPButton.swift in Sources */,
+				2603A9F82B9089F700C51B7A /* WPLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -9,7 +9,13 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_exported import wpbutton
-@_hasMissingDesignatedInitializers public class WPButton {
-  public static func makeButton(title: Swift.String, bgColor: UIKit.UIColor, titleColor: UIKit.UIColor) -> UIKit.UIButton
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class WPButton : UIKit.UIButton {
+  @_Concurrency.MainActor(unsafe) public var title: Swift.String
+  @_Concurrency.MainActor(unsafe) public var bgColor: UIKit.UIColor
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class WPLabel : UIKit.UILabel {
+  @_Concurrency.MainActor(unsafe) public var title: Swift.String
+  @_Concurrency.MainActor(unsafe) public var bgColor: UIKit.UIColor
   @objc deinit
 }
