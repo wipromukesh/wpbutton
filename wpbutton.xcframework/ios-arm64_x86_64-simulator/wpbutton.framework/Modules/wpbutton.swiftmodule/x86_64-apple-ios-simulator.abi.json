@@ -1,0 +1,113 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wpbutton",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wpbutton"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WPButton",
+        "printedName": "WPButton",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "makeButton",
+            "printedName": "makeButton(title:bgColor:titleColor:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIButton",
+                "printedName": "UIKit.UIButton",
+                "usr": "c:objc(cs)UIButton"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "usr": "c:objc(cs)UIColor"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:8wpbutton8WPButtonC10makeButton5title7bgColor0eG0So8UIButtonCSS_So7UIColorCAKtFZ",
+            "mangledName": "$s8wpbutton8WPButtonC10makeButton5title7bgColor0eG0So8UIButtonCSS_So7UIColorCAKtFZ",
+            "moduleName": "wpbutton",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:8wpbutton8WPButtonC",
+        "mangledName": "$s8wpbutton8WPButtonC",
+        "moduleName": "wpbutton",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/wpbutton\/wpbutton\/WPButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 307,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/wpbutton\/wpbutton\/WPButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 315,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/wpbutton\/wpbutton\/WPButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 327,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/wpbutton\/wpbutton\/WPButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 340,
+      "length": 3,
+      "value": "200"
+    }
+  ]
+}

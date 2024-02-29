@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mu20512697/Library/Developer/Xcode/DerivedData/wpbutton-fejndgjgwcbjwhgdarhghforuthh/Build/Intermediates.noindex/ArchiveIntermediates/wpbutton/InstallationBuildProductsLocation/Library/Frameworks/wpbutton.framework/wpbutton'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x53DD1, size: 0x8, addend: 0x0, symName: _wpbuttonVersionString, symObjAddr: 0x0, symBinAddr: 0x3E58, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x53E06, size: 0x8, addend: 0x0, symName: _wpbuttonVersionNumber, symObjAddr: 0x30, symBinAddr: 0x3E88, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x53E43, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC10makeButton5title7bgColor0eG0So8UIButtonCSS_So7UIColorCAKtFZ', symObjAddr: 0x0, symBinAddr: 0x3CB8, symSize: 0xF0 }
+  - { offsetInCU: 0x4B, offset: 0x53E67, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC10makeButton5title7bgColor0eG0So8UIButtonCSS_So7UIColorCAKtFZ', symObjAddr: 0x0, symBinAddr: 0x3CB8, symSize: 0xF0 }
+  - { offsetInCU: 0xE7, offset: 0x53F03, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCfd', symObjAddr: 0xF0, symBinAddr: 0x3DA8, symSize: 0x8 }
+  - { offsetInCU: 0x116, offset: 0x53F32, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCfD', symObjAddr: 0xF8, symBinAddr: 0x3DB0, symSize: 0x10 }
+  - { offsetInCU: 0x146, offset: 0x53F62, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCMa', symObjAddr: 0x108, symBinAddr: 0x3DC0, symSize: 0x20 }
+...
