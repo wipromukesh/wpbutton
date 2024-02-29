@@ -2,8 +2,8 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/mu20512697/Library/Developer/Xcode/DerivedData/wpbutton-gehqbswtjxdkmpgfvkfudzxkwgrw/Build/Intermediates.noindex/ArchiveIntermediates/wpbutton/InstallationBuildProductsLocation/Library/Frameworks/wpbutton.framework/wpbutton'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x538D4, size: 0x8, addend: 0x0, symName: _wpbuttonVersionString, symObjAddr: 0x0, symBinAddr: 0x51B0, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x53909, size: 0x8, addend: 0x0, symName: _wpbuttonVersionNumber, symObjAddr: 0x30, symBinAddr: 0x51E0, symSize: 0x0 }
+  - { offsetInCU: 0x34, offset: 0x538D4, size: 0x8, addend: 0x0, symName: _wpbuttonVersionString, symObjAddr: 0x0, symBinAddr: 0x5430, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x53909, size: 0x8, addend: 0x0, symName: _wpbuttonVersionNumber, symObjAddr: 0x30, symBinAddr: 0x5460, symSize: 0x0 }
   - { offsetInCU: 0x97, offset: 0x539B6, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvg', symObjAddr: 0xBC, symBinAddr: 0x40BC, symSize: 0x54 }
   - { offsetInCU: 0xB6, offset: 0x539D5, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvs', symObjAddr: 0x110, symBinAddr: 0x4110, symSize: 0x5C }
   - { offsetInCU: 0xDF, offset: 0x539FE, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvM', symObjAddr: 0x16C, symBinAddr: 0x416C, symSize: 0x44 }
@@ -11,32 +11,36 @@ relocations:
   - { offsetInCU: 0x181, offset: 0x53AA0, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvg', symObjAddr: 0x264, symBinAddr: 0x4264, symSize: 0x44 }
   - { offsetInCU: 0x1A0, offset: 0x53ABF, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvs', symObjAddr: 0x2A8, symBinAddr: 0x42A8, symSize: 0x50 }
   - { offsetInCU: 0x1C9, offset: 0x53AE8, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvM', symObjAddr: 0x2F8, symBinAddr: 0x42F8, symSize: 0x44 }
-  - { offsetInCU: 0x22E, offset: 0x53B4D, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x33C, symBinAddr: 0x433C, symSize: 0xEC }
-  - { offsetInCU: 0x27C, offset: 0x53B9B, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x428, symBinAddr: 0x4428, symSize: 0x44 }
-  - { offsetInCU: 0x2AE, offset: 0x53BCD, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5setup33_F93E9DC8B29E7C1A063DA589F0281B4FLLyyF', symObjAddr: 0x46C, symBinAddr: 0x446C, symSize: 0x1F8 }
-  - { offsetInCU: 0x330, offset: 0x53C4F, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCfD', symObjAddr: 0x664, symBinAddr: 0x4664, symSize: 0x30 }
-  - { offsetInCU: 0x35D, offset: 0x53C7C, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5coderACSgSo7NSCoderC_tcfcTf4gn_n', symObjAddr: 0x7A4, symBinAddr: 0x47A4, symSize: 0xCC }
-  - { offsetInCU: 0x3AD, offset: 0x53CCC, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvpACTK', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x54 }
-  - { offsetInCU: 0x3DA, offset: 0x53CF9, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvpACTk', symObjAddr: 0x54, symBinAddr: 0x4054, symSize: 0x68 }
-  - { offsetInCU: 0x412, offset: 0x53D31, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvpACTK', symObjAddr: 0x1B4, symBinAddr: 0x41B4, symSize: 0x50 }
-  - { offsetInCU: 0x43F, offset: 0x53D5E, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvpACTk', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x60 }
-  - { offsetInCU: 0x475, offset: 0x53D94, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCMa', symObjAddr: 0x694, symBinAddr: 0x4694, symSize: 0x20 }
-  - { offsetInCU: 0x489, offset: 0x53DA8, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCfETo', symObjAddr: 0x6B4, symBinAddr: 0x46B4, symSize: 0x3C }
-  - { offsetInCU: 0x97, offset: 0x53F9B, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvg', symObjAddr: 0xBC, symBinAddr: 0x4930, symSize: 0x54 }
-  - { offsetInCU: 0xB6, offset: 0x53FBA, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvs', symObjAddr: 0x110, symBinAddr: 0x4984, symSize: 0x5C }
-  - { offsetInCU: 0xDF, offset: 0x53FE3, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvM', symObjAddr: 0x16C, symBinAddr: 0x49E0, symSize: 0x44 }
-  - { offsetInCU: 0x10E, offset: 0x54012, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvM.resume.0', symObjAddr: 0x1B0, symBinAddr: 0x4A24, symSize: 0x4 }
-  - { offsetInCU: 0x163, offset: 0x54067, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvg', symObjAddr: 0x214, symBinAddr: 0x4A88, symSize: 0x44 }
-  - { offsetInCU: 0x182, offset: 0x54086, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvs', symObjAddr: 0x258, symBinAddr: 0x4ACC, symSize: 0x50 }
-  - { offsetInCU: 0x1AB, offset: 0x540AF, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvM', symObjAddr: 0x2A8, symBinAddr: 0x4B1C, symSize: 0x44 }
-  - { offsetInCU: 0x210, offset: 0x54114, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x2EC, symBinAddr: 0x4B60, symSize: 0xEC }
-  - { offsetInCU: 0x25E, offset: 0x54162, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x3D8, symBinAddr: 0x4C4C, symSize: 0x44 }
-  - { offsetInCU: 0x2AE, offset: 0x541B2, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5setup33_45A1089BE78603668E680C5EC2F96BD7LLyyF', symObjAddr: 0x41C, symBinAddr: 0x4C90, symSize: 0x170 }
-  - { offsetInCU: 0x32E, offset: 0x54232, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelCfD', symObjAddr: 0x58C, symBinAddr: 0x4E00, symSize: 0x30 }
-  - { offsetInCU: 0x35B, offset: 0x5425F, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5coderACSgSo7NSCoderC_tcfcTf4gn_n', symObjAddr: 0x728, symBinAddr: 0x4F9C, symSize: 0xCC }
-  - { offsetInCU: 0x3AB, offset: 0x542AF, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvpACTK', symObjAddr: 0x0, symBinAddr: 0x4874, symSize: 0x54 }
-  - { offsetInCU: 0x3D8, offset: 0x542DC, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvpACTk', symObjAddr: 0x54, symBinAddr: 0x48C8, symSize: 0x68 }
-  - { offsetInCU: 0x410, offset: 0x54314, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvpACTk', symObjAddr: 0x1B4, symBinAddr: 0x4A28, symSize: 0x60 }
-  - { offsetInCU: 0x446, offset: 0x5434A, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelCMa', symObjAddr: 0x5BC, symBinAddr: 0x4E30, symSize: 0x20 }
-  - { offsetInCU: 0x45A, offset: 0x5435E, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelCfETo', symObjAddr: 0x638, symBinAddr: 0x4EAC, symSize: 0x3C }
+  - { offsetInCU: 0x1F8, offset: 0x53B17, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5frameACSo6CGRectV_tcfC', symObjAddr: 0x33C, symBinAddr: 0x433C, symSize: 0x50 }
+  - { offsetInCU: 0x216, offset: 0x53B35, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5frameACSo6CGRectV_tcfc', symObjAddr: 0x38C, symBinAddr: 0x438C, symSize: 0xE8 }
+  - { offsetInCU: 0x27F, offset: 0x53B9E, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x494, symBinAddr: 0x4494, symSize: 0xEC }
+  - { offsetInCU: 0x2CD, offset: 0x53BEC, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x580, symBinAddr: 0x4580, symSize: 0x44 }
+  - { offsetInCU: 0x2FF, offset: 0x53C1E, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5setup33_F93E9DC8B29E7C1A063DA589F0281B4FLLyyF', symObjAddr: 0x5C4, symBinAddr: 0x45C4, symSize: 0x1F8 }
+  - { offsetInCU: 0x381, offset: 0x53CA0, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCfD', symObjAddr: 0x7BC, symBinAddr: 0x47BC, symSize: 0x30 }
+  - { offsetInCU: 0x3AE, offset: 0x53CCD, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5coderACSgSo7NSCoderC_tcfcTf4gn_n', symObjAddr: 0x8DC, symBinAddr: 0x48DC, symSize: 0xCC }
+  - { offsetInCU: 0x3FE, offset: 0x53D1D, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvpACTK', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x54 }
+  - { offsetInCU: 0x42B, offset: 0x53D4A, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC5titleSSvpACTk', symObjAddr: 0x54, symBinAddr: 0x4054, symSize: 0x68 }
+  - { offsetInCU: 0x463, offset: 0x53D82, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvpACTK', symObjAddr: 0x1B4, symBinAddr: 0x41B4, symSize: 0x50 }
+  - { offsetInCU: 0x490, offset: 0x53DAF, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonC7bgColorSo7UIColorCvpACTk', symObjAddr: 0x204, symBinAddr: 0x4204, symSize: 0x60 }
+  - { offsetInCU: 0x4C6, offset: 0x53DE5, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCMa', symObjAddr: 0x474, symBinAddr: 0x4474, symSize: 0x20 }
+  - { offsetInCU: 0x4DA, offset: 0x53DF9, size: 0x8, addend: 0x0, symName: '_$s8wpbutton8WPButtonCfETo', symObjAddr: 0x7EC, symBinAddr: 0x47EC, symSize: 0x3C }
+  - { offsetInCU: 0x97, offset: 0x53FEC, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvg', symObjAddr: 0xBC, symBinAddr: 0x4A68, symSize: 0x54 }
+  - { offsetInCU: 0xB6, offset: 0x5400B, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvs', symObjAddr: 0x110, symBinAddr: 0x4ABC, symSize: 0x5C }
+  - { offsetInCU: 0xDF, offset: 0x54034, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvM', symObjAddr: 0x16C, symBinAddr: 0x4B18, symSize: 0x44 }
+  - { offsetInCU: 0x10E, offset: 0x54063, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvM.resume.0', symObjAddr: 0x1B0, symBinAddr: 0x4B5C, symSize: 0x4 }
+  - { offsetInCU: 0x163, offset: 0x540B8, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvg', symObjAddr: 0x214, symBinAddr: 0x4BC0, symSize: 0x44 }
+  - { offsetInCU: 0x182, offset: 0x540D7, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvs', symObjAddr: 0x258, symBinAddr: 0x4C04, symSize: 0x50 }
+  - { offsetInCU: 0x1AB, offset: 0x54100, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvM', symObjAddr: 0x2A8, symBinAddr: 0x4C54, symSize: 0x44 }
+  - { offsetInCU: 0x1DA, offset: 0x5412F, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5frameACSo6CGRectV_tcfC', symObjAddr: 0x2EC, symBinAddr: 0x4C98, symSize: 0x50 }
+  - { offsetInCU: 0x1F8, offset: 0x5414D, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5frameACSo6CGRectV_tcfc', symObjAddr: 0x33C, symBinAddr: 0x4CE8, symSize: 0xE8 }
+  - { offsetInCU: 0x261, offset: 0x541B6, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5frameACSo6CGRectV_tcfcTo', symObjAddr: 0x444, symBinAddr: 0x4DF0, symSize: 0xEC }
+  - { offsetInCU: 0x2AF, offset: 0x54204, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x530, symBinAddr: 0x4EDC, symSize: 0x44 }
+  - { offsetInCU: 0x2FF, offset: 0x54254, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5setup33_45A1089BE78603668E680C5EC2F96BD7LLyyF', symObjAddr: 0x574, symBinAddr: 0x4F20, symSize: 0x170 }
+  - { offsetInCU: 0x37F, offset: 0x542D4, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelCfD', symObjAddr: 0x6E4, symBinAddr: 0x5090, symSize: 0x30 }
+  - { offsetInCU: 0x3AC, offset: 0x54301, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5coderACSgSo7NSCoderC_tcfcTf4gn_n', symObjAddr: 0x860, symBinAddr: 0x520C, symSize: 0xCC }
+  - { offsetInCU: 0x3FC, offset: 0x54351, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvpACTK', symObjAddr: 0x0, symBinAddr: 0x49AC, symSize: 0x54 }
+  - { offsetInCU: 0x429, offset: 0x5437E, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC5titleSSvpACTk', symObjAddr: 0x54, symBinAddr: 0x4A00, symSize: 0x68 }
+  - { offsetInCU: 0x461, offset: 0x543B6, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelC7bgColorSo7UIColorCvpACTk', symObjAddr: 0x1B4, symBinAddr: 0x4B60, symSize: 0x60 }
+  - { offsetInCU: 0x497, offset: 0x543EC, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelCMa', symObjAddr: 0x424, symBinAddr: 0x4DD0, symSize: 0x20 }
+  - { offsetInCU: 0x4AB, offset: 0x54400, size: 0x8, addend: 0x0, symName: '_$s8wpbutton7WPLabelCfETo', symObjAddr: 0x770, symBinAddr: 0x511C, symSize: 0x3C }
 ...

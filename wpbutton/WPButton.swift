@@ -12,7 +12,7 @@ public class WPButton: UIButton {
     public var title: String = ""
     public var bgColor: UIColor = .lightGray
     
-    override init(frame: CGRect) {
+    public override init(frame: CGRect) {
         super.init(frame: frame)
         setup()
     }

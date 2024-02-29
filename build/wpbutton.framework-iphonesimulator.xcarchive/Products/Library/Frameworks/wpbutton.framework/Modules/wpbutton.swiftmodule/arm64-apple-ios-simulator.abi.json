@@ -199,6 +199,39 @@
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WPButton",
+                "printedName": "wpbutton.WPButton",
+                "usr": "c:@M@wpbutton@objc(cs)WPButton"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@wpbutton@objc(cs)WPButton(im)initWithFrame:",
+            "mangledName": "$s8wpbutton8WPButtonC5frameACSo6CGRectV_tcfc",
+            "moduleName": "wpbutton",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
@@ -481,6 +514,39 @@
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WPLabel",
+                "printedName": "wpbutton.WPLabel",
+                "usr": "c:@M@wpbutton@objc(cs)WPLabel"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@wpbutton@objc(cs)WPLabel(im)initWithFrame:",
+            "mangledName": "$s8wpbutton7WPLabelC5frameACSo6CGRectV_tcfc",
+            "moduleName": "wpbutton",
+            "overriding": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
@@ -588,14 +654,14 @@
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPButton.swift",
       "kind": "StringLiteral",
-      "offset": 599,
+      "offset": 606,
       "length": 11,
       "value": "\"Halvetica\""
     },
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPButton.swift",
       "kind": "IntegerLiteral",
-      "offset": 618,
+      "offset": 625,
       "length": 2,
       "value": "17"
     },
@@ -609,14 +675,14 @@
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPLabel.swift",
       "kind": "StringLiteral",
-      "offset": 572,
+      "offset": 579,
       "length": 11,
       "value": "\"Halvetica\""
     },
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPLabel.swift",
       "kind": "IntegerLiteral",
-      "offset": 591,
+      "offset": 598,
       "length": 2,
       "value": "17"
     }

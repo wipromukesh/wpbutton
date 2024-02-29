@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/wpbutton-Swift.h</key>
 		<data>
-		peVsWhCU09IadF6WiHsf6XRgo10=
+		PIbO1EwRUV0QOyY6tijwLzOSVWE=
 		</data>
 		<key>Headers/wpbutton.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jGncieBLwPisGdPFz48HsUImhrs=
+		BMwEA4VDlUYdp0Ouq2g+/Sj4kYg=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WDmteMZVgLksuj+qo8jTtdBFEgk=
+		cbisv8SHVu14K/fWoFV8BabXprI=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WDmteMZVgLksuj+qo8jTtdBFEgk=
+		cbisv8SHVu14K/fWoFV8BabXprI=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vWo2v+BLT67epXj/eT72tZioCbU=
+		WVeZ5cUr/SHDE3KfLVJZqW9rR3g=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jGncieBLwPisGdPFz48HsUImhrs=
+		BMwEA4VDlUYdp0Ouq2g+/Sj4kYg=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		OOzNdGs6a9J7dEZ8YhBQndTVz4A=
+		sde4CYegXIyS/zit81gSJhp/3sA=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OOzNdGs6a9J7dEZ8YhBQndTVz4A=
+		sde4CYegXIyS/zit81gSJhp/3sA=
 		</data>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		h8+4+gdgZM49Ps3KgXCZLyVZsV8=
+		vFAKSJrRHW58prumixBlMVaY6zE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OuPsoHL3XWJOkgHdVQ8kGd8YX9VVdsd4QVrQsTAowVo=
+			YUmN68xQhbOWbQlcecQ47hrhUWI+foTc5Qwn3qWc14Y=
 			</data>
 		</dict>
 		<key>Headers/wpbutton.h</key>
@@ -88,14 +88,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F9J1OIITC4P3bPk5G55XJGsyophfyvqhNjAfQr4aZwQ=
+			OPePIScU+u2w0UZK3lrw+sTaqUT/o+hECf/fwM6EtW0=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmaHjEamnm8di8wYQ3QCuj5y+yLwegNAYgFyHyP0C0E=
+			GL7Vh1LI5L8EtNGlPkVDpfe3WroQ76EXENKtmukTJZs=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -109,28 +109,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmaHjEamnm8di8wYQ3QCuj5y+yLwegNAYgFyHyP0C0E=
+			GL7Vh1LI5L8EtNGlPkVDpfe3WroQ76EXENKtmukTJZs=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w7Er0sxu+nfQpTO/tjj0sr9HHPixht1mMbbbq5BYVg4=
+			TpqGIz1C603KJT4HU3eZoFzYnx5yF4wDHhGbWv0/wBg=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F9J1OIITC4P3bPk5G55XJGsyophfyvqhNjAfQr4aZwQ=
+			OPePIScU+u2w0UZK3lrw+sTaqUT/o+hECf/fwM6EtW0=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CrN1IQuhZ4dp1MyjKygMl3H+vXS0XxLTLDITqmbk85w=
+			u+XX6GSmFtU8s/HPSbVqk28fpMApaQ+TzCMaH5OHnAA=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -144,14 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CrN1IQuhZ4dp1MyjKygMl3H+vXS0XxLTLDITqmbk85w=
+			u+XX6GSmFtU8s/HPSbVqk28fpMApaQ+TzCMaH5OHnAA=
 			</data>
 		</dict>
 		<key>Modules/wpbutton.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m20cx94j8ChzrPnXf66MgiuCMvrVfWL8Q+L+C9rm9rs=
+			B1rzag8mSq0cTwdyBgGmbxXFuljx74dKI5I1KYhTREY=
 			</data>
 		</dict>
 	</dict>
