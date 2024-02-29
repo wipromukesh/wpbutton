@@ -11,7 +11,7 @@ import UIKit
 public class WPLabel: UILabel {
     public var title: String = ""
     public var bgColor: UIColor = .lightGray
-    
+    public var labelFont: UIFont = UIFont.systemFont(ofSize: 14.0)
     public override init(frame: CGRect) {
         super.init(frame: frame)
         setup()
@@ -25,7 +25,7 @@ public class WPLabel: UILabel {
     
     private func setup() {
         self.textAlignment = .left
-        self.font = UIFont(name: "Halvetica", size: 17)
+        self.font = labelFont
         self.textColor = UIColor.white
         self.text = title
         self.backgroundColor = bgColor

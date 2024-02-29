@@ -12,12 +12,14 @@ import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class WPButton : UIKit.UIButton {
   @_Concurrency.MainActor(unsafe) public var title: Swift.String
   @_Concurrency.MainActor(unsafe) public var bgColor: UIKit.UIColor
+  @_Concurrency.MainActor(unsafe) public var labelFont: UIKit.UIFont
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class WPLabel : UIKit.UILabel {
   @_Concurrency.MainActor(unsafe) public var title: Swift.String
   @_Concurrency.MainActor(unsafe) public var bgColor: UIKit.UIColor
+  @_Concurrency.MainActor(unsafe) public var labelFont: UIKit.UIFont
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
   @objc deinit
 }

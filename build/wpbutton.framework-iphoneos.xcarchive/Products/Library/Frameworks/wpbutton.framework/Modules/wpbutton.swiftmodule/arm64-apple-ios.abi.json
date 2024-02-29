@@ -201,6 +201,93 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "labelFont",
+            "printedName": "labelFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8wpbutton8WPButtonC9labelFontSo6UIFontCvp",
+            "mangledName": "$s8wpbutton8WPButtonC9labelFontSo6UIFontCvp",
+            "moduleName": "wpbutton",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8wpbutton8WPButtonC9labelFontSo6UIFontCvg",
+                "mangledName": "$s8wpbutton8WPButtonC9labelFontSo6UIFontCvg",
+                "moduleName": "wpbutton",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8wpbutton8WPButtonC9labelFontSo6UIFontCvs",
+                "mangledName": "$s8wpbutton8WPButtonC9labelFontSo6UIFontCvs",
+                "moduleName": "wpbutton",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8wpbutton8WPButtonC9labelFontSo6UIFontCvM",
+                "mangledName": "$s8wpbutton8WPButtonC9labelFontSo6UIFontCvM",
+                "moduleName": "wpbutton",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(frame:)",
@@ -516,6 +603,93 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "labelFont",
+            "printedName": "labelFont",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIFont",
+                "printedName": "UIKit.UIFont",
+                "usr": "c:objc(cs)UIFont"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8wpbutton7WPLabelC9labelFontSo6UIFontCvp",
+            "mangledName": "$s8wpbutton7WPLabelC9labelFontSo6UIFontCvp",
+            "moduleName": "wpbutton",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8wpbutton7WPLabelC9labelFontSo6UIFontCvg",
+                "mangledName": "$s8wpbutton7WPLabelC9labelFontSo6UIFontCvg",
+                "moduleName": "wpbutton",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIFont",
+                    "printedName": "UIKit.UIFont",
+                    "usr": "c:objc(cs)UIFont"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8wpbutton7WPLabelC9labelFontSo6UIFontCvs",
+                "mangledName": "$s8wpbutton7WPLabelC9labelFontSo6UIFontCvs",
+                "moduleName": "wpbutton",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8wpbutton7WPLabelC9labelFontSo6UIFontCvM",
+                "mangledName": "$s8wpbutton7WPLabelC9labelFontSo6UIFontCvM",
+                "moduleName": "wpbutton",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(frame:)",
@@ -653,17 +827,10 @@
     },
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPButton.swift",
-      "kind": "StringLiteral",
-      "offset": 606,
-      "length": 11,
-      "value": "\"Halvetica\""
-    },
-    {
-      "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPButton.swift",
-      "kind": "IntegerLiteral",
-      "offset": 625,
-      "length": 2,
-      "value": "17"
+      "kind": "FloatLiteral",
+      "offset": 290,
+      "length": 4,
+      "value": "14.0"
     },
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPLabel.swift",
@@ -674,17 +841,10 @@
     },
     {
       "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPLabel.swift",
-      "kind": "StringLiteral",
-      "offset": 579,
-      "length": 11,
-      "value": "\"Halvetica\""
-    },
-    {
-      "filePath": "\/Users\/mu20512697\/Desktop\/workspace\/pod\/wpbutton\/wpbutton\/WPLabel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 598,
-      "length": 2,
-      "value": "17"
+      "kind": "FloatLiteral",
+      "offset": 287,
+      "length": 4,
+      "value": "14.0"
     }
   ]
 }

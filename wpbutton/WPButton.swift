@@ -11,7 +11,8 @@ import UIKit
 public class WPButton: UIButton {
     public var title: String = ""
     public var bgColor: UIColor = .lightGray
-    
+    public var labelFont: UIFont = UIFont.systemFont(ofSize: 14.0)
+
     public override init(frame: CGRect) {
         super.init(frame: frame)
         setup()
@@ -25,7 +26,7 @@ public class WPButton: UIButton {
     
     private func setup() {
         self.titleLabel?.textAlignment = .left
-        self.titleLabel?.font = UIFont(name: "Halvetica", size: 17)
+        self.titleLabel?.font = labelFont
         self.titleLabel?.textColor = UIColor.white
         self.backgroundColor = bgColor
         self.titleLabel?.text = self.title
