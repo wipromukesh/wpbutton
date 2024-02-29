@@ -25,10 +25,11 @@ public class WPButton: UIButton {
     }
     
     private func setup() {
-        self.titleLabel?.textAlignment = .left
+        self.contentHorizontalAlignment = .left
         self.titleLabel?.font = labelFont
         self.titleLabel?.textColor = UIColor.white
         self.backgroundColor = bgColor
-        self.titleLabel?.text = self.title
+        self.setTitle(title, for: .normal)
     }
+    
 }
